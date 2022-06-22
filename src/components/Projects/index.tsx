@@ -11,6 +11,7 @@ const Projects: React.FC = () => {
             <Webpage name={'Waves-Music App'} image={'/images/wavesapp.png'} url={'https://wavesmusic-app.vercel.app'}/>
             <Webpage name={'The Creative Crew'} image={'/images/creativecrew.png'} url={'https://thecreativecrew.vercel.app'}/>
             <Webpage name={'Pedido Pago'} image={'/images/pedidopago.png'} url={'https://pedidopago-pp-challenge.vercel.app'}/>
+            <Webpage name={'Video-Chat App'} image={'/images/reactchatapp.png'} url={'https://webreactchatapp.vercel.app'}/>
         </div>
     </div>
   );
