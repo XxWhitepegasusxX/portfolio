@@ -13,8 +13,8 @@ const Contact: React.FC = () => {
             <a href="mailto:alexanderalmeida3040@gmail.com"><p>alexanderalmeida3040@gmail.com</p></a>
             </div>
             <div className="contact">
-            <h2>Whatsapp:</h2>
-            <a href="https://api.whatsapp.com/send?phone=5522998035875"><p>+55 (22) 998035875</p></a>
+            <h2>LinkedIn:</h2>
+            <a href="https://www.linkedin.com/in/alexander-almeida-dev"><p>alexander-almeida-dev</p></a>
             </div>
             <div className="contact">
             <h2>GitHub:</h2>
